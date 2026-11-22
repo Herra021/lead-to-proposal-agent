@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+storage/checkpoints.sqlite*
+storage/qdrant_db/
+.DS_Store

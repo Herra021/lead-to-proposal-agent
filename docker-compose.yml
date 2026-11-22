@@ -1,0 +1,12 @@
+services:
+  lead-to-proposal-agent:
+    build: .
+    container_name: cloudscale-lead-agent
+    ports:
+      - "8000:8000"
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - ./storage:/app/storage
+    restart: unless-stopped

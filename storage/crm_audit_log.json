@@ -1,0 +1,17 @@
+[
+  {
+    "thread_id": "lead_6e297074",
+    "approved_at": "2026-11-22T07:46:41.709679+00:00",
+    "company_name": "MedVault Health",
+    "recipient_email": "s.jenkins@medvaulthealth.io",
+    "recommended_tier": "Enterprise",
+    "estimated_mrr_usd": 0,
+    "required_compliance": [
+      "HIPAA",
+      "SOC2 Type II"
+    ],
+    "crm_status": "Qualified - Proposal Sent",
+    "email_sent": true,
+    "proposal_preview": "# Technical & Commercial Proposal: Enterprise AI Automation Pipeline\n\n**Prepared for:** Sarah Jenkins, MedVault Health  \n**Prepared by:** Principal AI Solutions Architect, CloudScale AI  \n\n---\n\n## Executive Summary\nMedVault Health requires a secure, ..."
+  }
+]
