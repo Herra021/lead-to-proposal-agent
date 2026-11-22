@@ -79,7 +79,7 @@ lead-to-proposal-agent/
 
 ### Option A: Local Setup
 ```bash
-git clone https://github.com/hskhola/lead-to-proposal-agent.git
+git clone https://github.com/Herra021/lead-to-proposal-agent.git
 cd lead-to-proposal-agent
 cp .env.example .env
 # Add GOOGLE_API_KEY and TAVILY_API_KEY inside .env
